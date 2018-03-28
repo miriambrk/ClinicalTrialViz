@@ -1,7 +1,6 @@
-# Homework5Matplotlib
-Pyber and Pymaceuticals Homework 
+# Two Projects: Pyber and Pymaceuticals Homework 
 
-Pyber - a hypothetical ride-sharing company
+1) Pyber - a hypothetical ride-sharing company
 
 Reads the data files (CSV format) and use Pandas and matplotlib and/or Seaborn to plot the data. Observable trends are documented.
 
@@ -17,7 +16,7 @@ Reads the data files (CSV format) and use Pandas and matplotlib and/or Seaborn t
 - % of Total Drivers by City Type
 
 
-Pymaceuticals - a hypothetical pharmaceutical company
+2) Pymaceuticals - a hypothetical pharmaceutical company's drug trial results
 
 Reads the data files (CSV format) with drug trial information, and use Pandas and matplotlib and/or Seaborn to plot the data. Observable trends are documented. Compares how four different treatments work.
 - a scatter plot that shows how the tumor volume changes over time for each treatment.
